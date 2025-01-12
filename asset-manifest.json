@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0a1167c1.css",
+    "main.js": "/portfolio/static/js/main.e57c1b27.js",
+    "static/media/project1.png": "/portfolio/static/media/project1.dd22411ef46b90f6e8e0.png",
+    "static/media/aboutme.jpg": "/portfolio/static/media/aboutme.2930af2efbd7b666dbcc.jpg",
+    "static/media/project3.jpg": "/portfolio/static/media/project3.4c7c9be1ab9aa488a4c9.jpg",
+    "static/media/project2.png": "/portfolio/static/media/project2.e0f74238427e03b9aa93.png",
+    "static/media/java.png": "/portfolio/static/media/java.860b21889bd8a30b86aa.png",
+    "static/media/first.jpg": "/portfolio/static/media/first.3be0d3f4e9decd7f649f.jpg",
+    "static/media/KirtiSuthar_Jaipur_Student_20-02-2002.pdf": "/portfolio/static/media/KirtiSuthar_Jaipur_Student_20-02-2002.db802d79db6ff8afd796.pdf",
+    "static/media/sql.png": "/portfolio/static/media/sql.2c2612ac527f86266740.png",
+    "static/media/docker.png": "/portfolio/static/media/docker.e204dfe111ee7f1e4f7b.png",
+    "static/media/html-logo.png": "/portfolio/static/media/html-logo.b39a12ac47cb0bc32b3f.png",
+    "static/media/noode.png": "/portfolio/static/media/noode.3460f137386dc97ba690.png",
+    "static/media/mongo.png": "/portfolio/static/media/mongo.62f6b1e4375f36d6eb26.png",
+    "static/media/express.png": "/portfolio/static/media/express.43afd28d804f3fffa07f.png",
+    "static/media/spring.png": "/portfolio/static/media/spring.9463240a940247a1d9e9.png",
+    "static/media/jswhite.png": "/portfolio/static/media/jswhite.079bc26f09dde0004f29.png",
+    "static/media/csharp.png": "/portfolio/static/media/csharp.36a6aae067f8ef48fd4d.png",
+    "static/media/react.png": "/portfolio/static/media/react.ed45923ade03697c994a.png",
+    "index.html": "/portfolio/index.html",
+    "main.0a1167c1.css.map": "/portfolio/static/css/main.0a1167c1.css.map",
+    "main.e57c1b27.js.map": "/portfolio/static/js/main.e57c1b27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a1167c1.css",
+    "static/js/main.e57c1b27.js"
+  ]
+}
