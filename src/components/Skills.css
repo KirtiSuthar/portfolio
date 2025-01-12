@@ -1,0 +1,16 @@
+
+ @keyframes slide {
+         from {
+              transform:translateX(0%);
+           }
+             to {
+            transform: translateX(-143.3%);
+            } 
+ }
+ 
+
+.animate{
+    animation : slide 15s  infinite linear;
+}
+
+
